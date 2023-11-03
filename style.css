@@ -7,8 +7,8 @@ body{
 }
 
 .center{
-  position:absolute;
-  top:50%;
+  position: absolute;
+  top:70%;
   left:50%;
   transform:prespective(1000px) translate(-50%,-50%);
   transform:skewY(15deg);
